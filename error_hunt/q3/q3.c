@@ -26,7 +26,7 @@ int main()
         }
         else
         {
-            countS++; 
+            countS++;
         }
     }
 
