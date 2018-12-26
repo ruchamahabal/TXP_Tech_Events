@@ -1,1 +1,1 @@
-3 C, 3 Python
+2 C, 2 Python
