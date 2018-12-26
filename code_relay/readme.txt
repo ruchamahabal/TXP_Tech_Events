@@ -1,2 +1,15 @@
 1 question
-php, c, c#, java, python
+php, c, c++, c#, java, python
+
+level 1 question:
+Q. Write a program to accept  string from user and toggle the case of its alphabets.
+In case of PHP you can initialize the string, as you cannot take input from user.
+examples:
+1. input: TeCHxpOsuRE
+   output: tEchXPoSUre
+
+2. input: cOdInG
+   output: CoDiNg
+
+Write code in as many languages as possible from the following pool:
+C, Java, Python, C#, php
