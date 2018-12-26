@@ -1,5 +1,7 @@
 body{
   font-family: "Times New Roman", Times, serif;
+  margin :0;
+  padding : 0;
 }
 #row{
   width: auto;
@@ -12,4 +14,47 @@ body{
   flex-direction: column;
   padding: 30px;
   justify-content: center;
+}
+.nav {
+  background : #000;
+}
+.logo {
+  padding-left: 20px;
+  width: 120px;
+  height: auto;
+}
+.brandName {
+  float:right;
+  color: #fff;
+}
+.nav-links {
+  float:right;
+	list-style: none;
+}
+
+.nav-links li {
+	display: inline-block;
+	margin-left: 40px;
+  margin-top:10px;
+}
+
+.nav-links li:last-child{
+  margin-right: 50px;
+}
+
+.nav-links li a:link,
+.nav-links li a:visited {
+	padding: 8px 0;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 0.9em;
+	border-bottom: 2px solid transparent;
+	transition: border-bottom 0.2s;
+}
+
+
+.nav-links li a:hover,
+.nav-links li a:active {
+	border-bottom: 2px solid #039FB6;
 }
