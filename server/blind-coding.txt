@@ -1,0 +1,7 @@
+Blind Coding
+
+With your monitors turned off, Write a Java program to take a number from user and print whether that number is an Armstrong Number or Not.
+
+If sum of cubes of all the digits of a number is that number itself, then its an Armstrong Number.
+Example - 153 = 1 + 125 + 27 = 153 - its an Armstrong Number
+

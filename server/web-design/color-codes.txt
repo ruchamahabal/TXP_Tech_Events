@@ -1,0 +1,4 @@
+light blue : #039Fb6
+dark blue  : #053653
+white 	   : #fff
+black      : #000

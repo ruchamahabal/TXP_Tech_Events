@@ -1,0 +1,12 @@
+Q1. Write a c program to print the following pattern:
+
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+Q2. write a c program to take a number as input from the user and check if the number is a palindrome.
+
+
+
